@@ -1,0 +1,13 @@
+int size.
++[]-, loop.
+int sum.
+bisey denedim
+move 5 to size.
+loop size times
+[ out size, newline. {commentline}
+add size to sum.
+]
+out newline, "Sum:", sum.
+
+
+
